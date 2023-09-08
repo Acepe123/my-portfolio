@@ -19,6 +19,9 @@
 
 To view the demo: **[click here](https://the-simplefolio.netlify.app/)**
 
+![portfolio website](https://github.com/Acepe123/my-portfolio/assets/123155944/ddd77c25-8f96-4400-b556-ddac9719b1a5)
+
+
 ---
 
 ## Why do you need a portfolio? ☝️
@@ -137,6 +140,7 @@ Go to `/src/index.html` and put your information, there are 5 sections:
 ```
 
 ### (2) About Section
+![portfolio-about-me](https://github.com/Acepe123/my-portfolio/assets/123155944/718dd70d-3091-4121-9c05-381e5b002bd7)
 
 - On `<img>` tag, fill the `src` property with your profile picture path, your picture must be located inside `/src/assets/` folder.
 - On `<p>` tag with class name `.about-wrapper__info-text`, include information about you, I recommend to put 2 paragraphs in order to work well and a maximum of 3 paragraphs.
@@ -188,6 +192,9 @@ Go to `/src/index.html` and put your information, there are 5 sections:
 ```
 
 ### (3) Projects Section
+![robofriends project](https://github.com/Acepe123/my-portfolio/assets/123155944/ff18c1ea-eeee-40f0-9cb5-81121c380646)
+![projets ](https://github.com/Acepe123/my-portfolio/assets/123155944/37b2e73a-98b2-49a2-9f76-93832db3867b)
+
 
 - Each project lives inside a `row`.
 - On `<h3>` tag with class name `.project-wrapper__text-title`, include your project title.
@@ -261,6 +268,8 @@ Go to `/src/index.html` and put your information, there are 5 sections:
 ```
 
 ### (4) Contact Section
+![socials](https://github.com/Acepe123/my-portfolio/assets/123155944/09b1ac1f-a4e7-4bae-9dcc-1477b87083f3)
+
 
 - On `<p>` tag with class name `.contact-wrapper__text`, include some custom call-to-action message.
 - On `<a>` tag, put your email address on `href` property.
